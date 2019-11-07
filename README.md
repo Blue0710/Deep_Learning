@@ -1,2 +1,2 @@
 # Deep_Learning
-multiple model training
+Multiple neural network model training
