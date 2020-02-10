@@ -41,5 +41,5 @@ Gated Recurrent Unit
 
 ***WISDM_ar_v1.1_raw***
 - http://www.cis.fordham.edu/wisdm/includes/files/sensorKDD-2010.pdf
-    ***Reference***
-    - https://www.youtube.com/watch?v=XOEN9W05_4A&feature=youtu.be
+    - Reference
+        - https://www.youtube.com/watch?v=XOEN9W05_4A&feature=youtu.be
