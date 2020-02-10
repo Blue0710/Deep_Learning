@@ -39,6 +39,9 @@ Gated Recurrent Unit
 ***NYSE Stock***
 - https://www.kaggle.com/dgawlik/nyse
 
+***MNIST***
+- http://yann.lecun.com/exdb/mnist/
+
 ***WISDM_ar_v1.1_raw***
 - http://www.cis.fordham.edu/wisdm/includes/files/sensorKDD-2010.pdf
     - Reference
